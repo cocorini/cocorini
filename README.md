@@ -1,7 +1,13 @@
 <a href="mailto:﻿wsup97@gmail.com"><img src="https://img.shields.io/badge/wsup97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/win_work97/"><img src="https://img.shields.io/badge/@win_work97-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-### Hi there 👋
+### 👋 안녕하세요!
+저는 SW개발자를 꿈꾸는 학생입니다.
+
+### 💪 관심있는 언어
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **cocorini/cocorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
