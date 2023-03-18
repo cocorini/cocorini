@@ -1,5 +1,5 @@
 <a href="mailto:﻿wsup97@gmail.com"><img src="https://img.shields.io/badge/wsup97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/win_work97/"><img src="https://img.shields.io/badge/@win_work97-E4405F?style=flat-square&logo=Instagram&logocolor=white"/></a>
+<a href="https://www.instagram.com/win_work97/"><img src="https://img.shields.io/badge/@win_work97-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ### Hi there 👋
 
