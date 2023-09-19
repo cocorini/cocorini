@@ -1,11 +1,6 @@
 <a href="mailto:﻿wsup97@gmail.com"><img src="https://img.shields.io/badge/wsup97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/win_work97/"><img src="https://img.shields.io/badge/@win_work97-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-### 👋 안녕하세요!
-##### 저는 SW개발자를 꿈꾸는 대학생입니다. 😊
-##### 알고리즘 공부를 진행중입니다. 🤓
-##### 학교->헬스->백준이 일상이 되어버린 공대생 💪🏼💪🏼
-
 ### 🫣 관심있는 언어
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
