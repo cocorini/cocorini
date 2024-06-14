@@ -5,7 +5,7 @@
 <br/>
 
 ### MAJORITY
-ELECTRONIC ENGINEERING
+<p>ELECTRONIC ENGINEERING<p/>
 
 <br/>
 
@@ -23,6 +23,12 @@ ELECTRONIC ENGINEERING
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+<br/>
+
+### HOBBY
+<p> 헬스 [ 쇠질하는 개발자 ] </p>
+<p> 야구관람 [롯팬] </p>
 
 <!--
 **cocorini/cocorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
