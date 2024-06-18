@@ -28,7 +28,12 @@
 
 ### HOBBY
 <p> 헬스 [ 쇠질하는 개발자 ] </p>
-<p> 야구관람 [롯팬] </p>
+<p> 야구관람 [ 롯팬 ] </p>
+
+<br/>
+
+### Program Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1143616)](https://solved.ac/1143616/)
 
 <!--
 **cocorini/cocorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
