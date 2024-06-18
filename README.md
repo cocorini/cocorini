@@ -4,14 +4,15 @@
 
 <br/>
 
-### MAJORITY
-<p>ELECTRONIC ENGINEERING<p/>
+### RECORD
+<p>2024/01 ~ 2024/12 SSAFY 11기<p/>
+<p>2023/08 ~ 2024/01 KT AIVLE School 4기 이수</p>
+<p>~ 2024/02 한양대 ERICA 전자공학</p>
 
 <br/>
 
-### RECORD
-<p>~ 2024/12 SSAFY 11기<p/>
-<p>~ 2024/02 한양대 ERICA 전자공학</p>
+### PROJECT
+<p> AI 업무비서 협재씨 - 업무일정관리 자동화 및 스마트 텍스트 분류 (Django, backend) </p> 
 
 <br/>
 
@@ -32,7 +33,7 @@
 
 <br/>
 
-### Program Solving
+### PROGRAM SOLVING
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1143616)](https://solved.ac/1143616/)
 
 <!--
