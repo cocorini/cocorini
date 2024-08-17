@@ -6,7 +6,7 @@
 
 ### PROJECT
 <p> AI 업무비서 협재씨 - 업무일정관리 자동화 및 스마트 텍스트 분류 (Django, backend) </p>
-<p> P난처 - 화상 회의를 통한 조립식 컴퓨터 수리 플랫폼 (24.07.08~ing) </p>
+<p> P난처 - 화상 회의를 통한 조립식 컴퓨터 수리 플랫폼 (24.07.08~24.08.16) </p>
 
 <br/>
 
@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
